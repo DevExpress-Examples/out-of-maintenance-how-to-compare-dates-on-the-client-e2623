@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to compare dates on the client
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2623/)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to compare values of two ASPxDateEdits on the client side. The result (number of days between the start date and end date is displayed in the ASPxTextBox).<br />
